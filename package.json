@@ -1,0 +1,18 @@
+{
+  "name": "language-avia",
+  "main": "./lib/language-avia",
+  "version": "0.0.1",
+  "description": "Film making text editor",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "language-avia:toggle"
+  },
+  "repository": "https://github.com/atom/language-avia",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

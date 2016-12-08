@@ -1,0 +1,23 @@
+'.source.aso':
+  'Escena':
+    'prefix': 'esc'
+    'body': 'Escena : ${2:nombreEscena}:, ${3:Int/Ext}. ${4:descripción}'
+'.source.apt':
+  'Escena':
+    'prefix': 'esc'
+    'body': '${1:#} ${2:INT/EXT}. ${3} - ${4:DÍA/NOCHE} ${1}'
+  'Acción':
+    'prefix': 'acc'
+    'body': '${1:PERSONAJE} describe las acciones y apariencia del personaje o sujeto sin entrar en detalles.'
+  'Personaje':
+    'prefix': 'per'
+    'body': '${1:PERSONAJE}'
+  'Paréntesis':
+    'prefix': '('
+    'body': '(${1})'
+  'Diálogo':
+    'prefix': 'dia'
+    'body': '${Diálogo de personaje}'
+  'Transición':
+    'prefix': 'tra'
+    'body': '${1}'

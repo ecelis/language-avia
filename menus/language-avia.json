@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle language-avia",
+        "command": "language-avia:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "language-avia",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "language-avia:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
